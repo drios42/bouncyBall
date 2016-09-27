@@ -8,7 +8,7 @@ var c;
 
 function setup() {
   createCanvas(640,360);
-  c = color(255,255,255);
+  c = color(255,255,0);
 }
 
 function draw() {
